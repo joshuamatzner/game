@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+  background-color: #F9910F;
+}
+.wrapper {
+  height: 100%;
+}
+.is-hidden {
+  display: none;
+}

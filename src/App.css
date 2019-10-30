@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-flow: row nowrap;
+  height: 100%;
+}
+
+button{    
+	padding: 0.2em 0.6em;
+    appearance: none;
+    background-color: #0D9562;
+    border: 1px solid #0D9562;
+    border-radius: 6px;
+    font-size: 1rem;
+    color: #FFF;
+    cursor: pointer;
+    outline: none;
+    margin: 1em; 
+}

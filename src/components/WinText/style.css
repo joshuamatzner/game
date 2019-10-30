@@ -1,0 +1,10 @@
+.Win-Text {
+    position: absolute;
+    left: auto;
+    right: auto;
+    top: 10%;
+    color: #FEFEFE;
+    font-size: 54px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
